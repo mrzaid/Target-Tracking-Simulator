@@ -1,5 +1,7 @@
 # Target Tracking Urban Environment Simulator
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsarthak268%2FTarget-Tracking-Simulator&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 This repository contains code for urban environment simulator that can be used to test Target Tracking algorithms. It has functionalities for dynamic target and cylindrical obstacles. 
 
 This work is a part of paper <a href="https://arxiv.org/abs/2007.10934">"UAV Target Tracking in Urban Environments using Deep Reinforcement Learning"</a> published at <i>The 2020 International Conference on Unmanned Aircraft Systems, Athens, Greece</i>. In case you find any of this useful consider citing our work.
